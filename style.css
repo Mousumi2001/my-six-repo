@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-1 {
+    background-image: url(donate-today-main/images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.section-1 h1 {
+    font-size: 60px;
+
+
+}
+
+.image-style {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.379), rgb(0, 0, 0));
+    text-align: center;
+    padding: 30px 200px 100px;
+    color: white;
+}
+
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.section-2 {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(245, 217, 231);
+}
+
+.section-2 div {
+    padding: 50px;
+
+}
+
+h2 {
+    background-color: aqua;
+    width: 100px;
+    padding: 40px 20px;
+    display: inline;
+
+}
+
+.size {
+    font-size: 33px;
+}
+
+hr {
+    width: 50%;
+
+}
+
+.h2-style {
+    border: 2px solid orange;
+    color: orange;
+}
+
+.same-3 {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.all {
+    display: flex;
+    margin: auto;
+    padding: 20px 220px;
+
+
+}
+
+.different {
+    text-align: center;
+
+}
+
+#id1 {
+    background-color: rgb(195, 252, 230);
+}
+
+#id2 {
+    background-color: rgb(248, 191, 231);
+}
+
+#id3 {
+    background-color: rgb(229, 193, 180);
+}
+
+button {
+    background-color: rgb(248, 102, 11);
+    color: rgb(253, 251, 249);
+    width: 100px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+input {
+    background-color: rgba(63, 61, 61, 0.155);
+    color: black;
+    width: 170px;
+    height: 38px;
+    border: none;
+}
+
+.btn {
+    background-color: rgb(249, 225, 180);
+    padding: 60px;
+    width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.section-3 {
+    background-color: rgb(220, 248, 248);
+}
+
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 150px;
+    padding-top: 50px;
+    margin-top: 80px;
+    font-family: 'Lato', sans-serif;
+}
+
+footer h1 {
+    color: darkorange;
+}
